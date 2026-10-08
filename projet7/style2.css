@@ -1,0 +1,32 @@
+body
+{
+	background-color: darkblue;
+	font-family: Arial;
+	font-size: 2em;
+}
+.titre 
+{
+	background-color: purple;
+	height: 300px;
+	width: 400px;
+	
+	color: pink;
+	float: left;
+}
+.b2
+{
+	background-color: pink;
+	height: 400px;
+	width: 600px;
+	margin-bottom: 20px
+	color: brown;
+	float: right;
+}
+.b3
+{
+	background-color: pink;
+	height: 400px;
+	width: 400px;
+	color: orange;
+	clear:  both;
+}

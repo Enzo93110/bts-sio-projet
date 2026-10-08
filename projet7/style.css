@@ -1,0 +1,37 @@
+body
+{
+	background-color: lightblue;
+	font-family: Arial;
+
+}
+
+.titre 
+{
+	background-color: darkred;
+	height: 150px;
+	width: 50%;
+	margin: auto;
+	color: violet;
+}
+
+.p1
+{
+	height: 125px;
+	width: 80%;
+	background-color: orange;
+	border: 2px solid yellow;
+	border-radius: 20px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.p2
+{
+	height: 100px;
+	width: 80%;
+	background-color: grey;
+	border: 2px solid yellow;
+	border-radius: 20px;
+	margin: auto;
+	margin-top: 20px;
+}
